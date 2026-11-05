@@ -1,3 +1,4 @@
+# KR2: Salnikov
 import os
 import socket
 
