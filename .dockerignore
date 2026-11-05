@@ -1,0 +1,12 @@
+.env
+.env.*
+.git
+__pycache__
+*.pyc
+*.key
+*.log
+docs
+scripts
+nginx
+README.md
+docker-compose.yml
